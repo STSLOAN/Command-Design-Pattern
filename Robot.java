@@ -1,3 +1,6 @@
+/**
+ * main method of the class
+ */
 public class Robot {
     
     public Robot(String name) {
